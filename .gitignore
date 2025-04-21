@@ -1,3 +1,5 @@
 consignes.md
 .DS_Store
 env/
+**.pyc
+__pycache__/
